@@ -1,0 +1,2 @@
+BAM_ID1	/path/to/bam/for/bam_id1
+BAM_ID2	/path/to/bam/for/bam_id2
